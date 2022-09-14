@@ -1,3 +1,4 @@
 # CGPA to Percentage Converter
  CGPA to Percentage Converter using tkinter GUI in Python
-<img width="393" alt="Screenshot 2022-09-07 at 2 04 49 PM" src="https://user-images.githubusercontent.com/95522797/189520095-bb02a263-cc3b-46c4-a5c3-589b171b3f6d.png">
+
+<img width="394" alt="Screenshot 2022-09-14 at 3 02 07 PM" src="https://user-images.githubusercontent.com/95522797/190127867-cf554465-67bb-4983-becf-280aff0eb31e.png">
